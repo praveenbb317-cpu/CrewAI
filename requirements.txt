@@ -1,0 +1,17 @@
+crewai
+
+litellm
+
+langchain-ollama
+
+google-generativeai
+
+python-dotenv
+
+pydantic
+
+crewai[google-genai]
+
+streamlit
+
+crewai-tools
